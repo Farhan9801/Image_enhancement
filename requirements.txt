@@ -6,4 +6,6 @@ ipython==8.4.0
 timm==0.6.11
 matplotlib
 Pillow
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+torch --index-url https://download.pytorch.org/whl/cu118
+torchvision --index-url https://download.pytorch.org/whl/cu118
+torchaudio --index-url https://download.pytorch.org/whl/cu118
